@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf763d93d27145cebd6f5df37bfa131, type: 3}
+  m_Name: Fire Flower Fairy
+  m_EditorClassIdentifier: 
+  cardName: "\u706B\u7130\u4E4B\u82B1\u7CBE\u9748"
+  description: "\u5165\u4FB5\u3002\u7576\u6211\u65B9\u7A2E\u65CF<\u82B1\u9748>\u4F7F\u5F92\u4EE5\u9019\u500B\u4F7F\u5F92\u70BA\u5C0D\u8C61\u8F49\u53EC\u6642\uFF0C\u53EF\u4EE5\u6E1B\u5C115\u9EDE\u652F\u4ED8\u8CBB\u7528\u3002"
+  cardIllustration: {fileID: -2103791970, guid: 0262a5bbf22c844d8bbeb8b3ceb72d8b, type: 3}
+  previewCardIllustration: {fileID: 1571738585, guid: 0262a5bbf22c844d8bbeb8b3ceb72d8b, type: 3}
+  manaCost: 5
+  cardType: 0
+  creatureIllustration: {fileID: 684473914, guid: 0262a5bbf22c844d8bbeb8b3ceb72d8b, type: 3}
+  creatureType: 0
+  creatureRace: 1
+  maxHealth: 1
+  attack: 4
+  attacksForOneTurn: 1
+  resummonCostReduction: 1
+  creatureScriptName: FireFlowerFairy
+  invasion: 1
+  hide: 0
+  spellScriptName: 
+  cardEffectTarget: 0
+  numberOfTarget: 1

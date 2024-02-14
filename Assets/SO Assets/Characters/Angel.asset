@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b3f6d3c9884c49518a9c68525365b2f, type: 3}
+  m_Name: Angel
+  m_EditorClassIdentifier: 
+  charClass: 1
+  charName: "\u5929\u4F7F"
+  description: 
+  maxHealth: 30
+  attack: 1
+  charIllustration: {fileID: 387795459, guid: 0994c0a36317b42b5995e9b9bfc42fd3, type: 3}
+  previewCharIllustration: {fileID: -1226834021, guid: 0994c0a36317b42b5995e9b9bfc42fd3, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c28c220f320b849679bc1fb3ba02f5bb, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  tileName: "\u7FE0\u7DA0\u68EE\u6797"
+  description: "\u96D9\u65B9\u56DE\u5408\u7D50\u675F\u6642\uFF0C\u4E16\u754C\u5167\u7684\u4F7F\u5F92\u56DE\u5FA91\u9EDE\u751F\u547D\u503C"
+  tileImage: {fileID: 325787474, guid: 1978eb1e9da064e13975521d3f68f1ca, type: 3}
+  tileScriptName: 

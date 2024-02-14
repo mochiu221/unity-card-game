@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf763d93d27145cebd6f5df37bfa131, type: 3}
+  m_Name: Sun Flower Fairy
+  m_EditorClassIdentifier: 
+  cardName: "\u5411\u65E5\u8475\u7CBE\u9748"
+  description: "\u53EC\u559A\u6642\uFF0C\u5982\u679C\u5728\u7FE0\u7DA0\u68EE\u6797\uFF0C\u5F97\u5230\u5148\u9A45\u3002"
+  cardIllustration: {fileID: 1664699403, guid: 35aeb11314a644804bb2f4467063a566, type: 3}
+  previewCardIllustration: {fileID: 2111351376, guid: 35aeb11314a644804bb2f4467063a566, type: 3}
+  manaCost: 5
+  cardType: 0
+  creatureIllustration: {fileID: 1305369053, guid: 35aeb11314a644804bb2f4467063a566, type: 3}
+  creatureType: 2
+  creatureRace: 1
+  maxHealth: 4
+  attack: 6
+  attacksForOneTurn: 1
+  resummonCostReduction: 1
+  creatureScriptName: SunFlowerFairy
+  invasion: 0
+  hide: 0
+  pioneer: 0
+  allure: 0
+  spellScriptName: 
+  numberOfTarget: 1

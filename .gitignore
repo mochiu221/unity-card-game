@@ -1,0 +1,14 @@
+/.vscode
+/GameBuild
+/LinuxBuild
+/WindowBuild
+/Logs
+/Library
+
+.DS_Store
+*.csproj
+*.sln
+
+/Assets/DOTween
+/Assets/TextMesh Pro
+/Adaptive Performance

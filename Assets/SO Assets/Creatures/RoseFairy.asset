@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf763d93d27145cebd6f5df37bfa131, type: 3}
+  m_Name: RoseFairy
+  m_EditorClassIdentifier: 
+  cardName: "\u73AB\u7470\u7CBE\u9748"
+  description: "\u963B\u64CB\u6642\uFF0C\u7D66\u4E88\u5C0D\u65B9\u81EA\u5DF1\u653B\u64CA\u529B2\u500D\u50B7\u5BB3\u3002\u5982\u679C\u5728\u7FE0\u7DA0\u68EE\u6797\uFF0C\u5F97\u5230\u8A98\u60D1\u3002"
+  cardIllustration: {fileID: 650493112, guid: b83a972abe8da4cbf969bd2367dd138b, type: 3}
+  previewCardIllustration: {fileID: 1100523734, guid: b83a972abe8da4cbf969bd2367dd138b, type: 3}
+  manaCost: 7
+  cardType: 0
+  creatureIllustration: {fileID: -795891370, guid: b83a972abe8da4cbf969bd2367dd138b, type: 3}
+  creatureType: 5
+  creatureRace: 1
+  maxHealth: 6
+  attack: 3
+  attacksForOneTurn: 1
+  resummonCostReduction: 1
+  creatureScriptName: RoseFairy
+  invasion: 0
+  hide: 0
+  pioneer: 0
+  allure: 0
+  spellScriptName: 
+  numberOfTarget: 1
